@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tl8616
-- 👀 I’m interested in Software development ...
+- 👋 Hi, I’m @tl8616 (Thiyaneshwaran.T)
+- 👀 I’m interested in Software development and Data Science 
 - 🌱 I’m currently an ECE student in my final year
-- 💞️ I’m looking to collaborate for Data Science and Machine learning project
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Data Science and Machine learning project
+  
 
 <!---
 tl8616/tl8616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
