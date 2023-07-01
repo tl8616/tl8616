@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tl8616 (Thiyaneshwaran.T)
-- 👀 I’m interested in Software development and Data Science 
+- 👀 I’m interested in  Software development, Data Science and Data analytics 
 - 🌱 I’m currently an ECE student in my final year
 - 💞️ I’m looking to collaborate on Data Science and Machine learning project
   
